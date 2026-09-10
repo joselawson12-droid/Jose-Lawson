@@ -1,0 +1,6 @@
+{
+  "name": "CARD CHECK",
+  "description": "Official secure verification and activation platform for prepaid recharge vouchers (Transcash, PCS, Neosurf, Paysafecard and more).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
